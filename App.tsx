@@ -109,7 +109,7 @@ const App: React.FC = () => {
           <div className="bg-blue-600 p-2 rounded-lg shadow-lg shadow-blue-200">
             <ICONS.Bag className="w-6 h-6 text-white" />
           </div>
-          <h1 className="text-xl font-bold text-slate-800">FPTAIEZ</h1>
+          <h1 className="text-xl font-bold text-slate-800">Demo</h1>
         </div>
 
         <nav className="flex border-b border-slate-100">
